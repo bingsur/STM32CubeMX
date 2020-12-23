@@ -19,6 +19,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "usart.h"
+852
 
 /* USER CODE BEGIN 0 */
 uint8_t aRxBuffer[RXBUFFERSIZE];
